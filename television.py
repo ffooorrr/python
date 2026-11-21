@@ -5,7 +5,7 @@ def __init__(self):
 def power(self):
     pass
 
-def mut(self):
+def mute(self):
     pass
 
 def channel_up(self):
